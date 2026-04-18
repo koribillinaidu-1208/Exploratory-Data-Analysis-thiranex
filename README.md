@@ -28,4 +28,4 @@ Dataset contains passenger details such as age, gender, class, fare, and surviva
 
 ```bash
 pip install -r requirements.txt
-python eda.py
+python main.py
